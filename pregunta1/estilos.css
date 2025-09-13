@@ -1,0 +1,142 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    width: 100%;
+    height: 50px;
+}
+
+.logo {
+    background-color: red;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 15px;
+}
+
+.heads {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+
+header span {
+    padding-left: 3px;
+    padding-right: 40px;
+    color: black;
+    opacity: 70%;
+}
+
+div img {
+    margin: 0;
+    padding: 0;
+    
+}
+
+#hr1 {
+    margin: 0;
+    padding: 0;
+}
+
+#hr2 {
+    margin-top: 30px;
+}
+
+.Principal {
+    background: linear-gradient(to bottom, red, white);
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+}
+
+section img {
+    padding: 30px;
+    height: 500px;
+    width: 1840px;
+    border-radius: 70px;
+}
+
+section h1 {
+    color: black;
+    opacity: 65%;
+    font-size:xx-large;
+    margin-bottom: 30px;
+    margin-left: 40px;
+}
+
+#botonRojo {
+    background-color: red;
+    border-radius: 10px;
+    color: white;
+    padding: 20px;
+    font-size: x-large;
+    border: 0;
+}
+
+.Destacados {
+    color: black;
+    opacity: 100%;
+}
+
+.botonesAzules {
+    background-color: royalblue;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: x-large;
+    margin-left: 180px;
+    margin-bottom: 20px;
+    border: 0;
+}
+
+article {
+    border: 1px solid gray;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    height: 500px;
+}
+
+article img {
+    width: 500px;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+
+article h2 {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+article p {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    font-size: x-large;
+}
+
+.contenedorProductos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+
